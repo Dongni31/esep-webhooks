@@ -1,0 +1,6 @@
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll

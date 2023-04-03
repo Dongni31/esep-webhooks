@@ -1,0 +1,17 @@
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.deps.json
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.runtimeconfig.json
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.pdb
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Core.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.AssemblyReference.cache
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfoInputs.cache
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfo.cs
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CopyComplete
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/refint/EsepWebhook.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.pdb
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.genruntimeconfig.cache
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/ref/EsepWebhook.dll
