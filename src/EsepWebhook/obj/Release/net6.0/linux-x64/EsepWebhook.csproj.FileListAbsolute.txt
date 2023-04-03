@@ -15,3 +15,4 @@
 /Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.pdb
 /Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/obj/Release/net6.0/linux-x64/ref/EsepWebhook.dll
+/Users/dongni31/Documents/School/SPR23/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/linux-x64/Newtonsoft.Json.dll
